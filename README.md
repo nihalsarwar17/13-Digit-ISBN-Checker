@@ -190,5 +190,5 @@ finish:
 li $v0, 10
 syscall
 jr $ra
-
+#end
 
